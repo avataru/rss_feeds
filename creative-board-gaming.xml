@@ -6,7 +6,14 @@
 <atom:link href="https://avataru.github.io/rss_feeds/creative-board-gaming.xml" rel="self" type="application/rss+xml"/>
 <description>New events from cbgshop.ro</description>
 <language>ro</language>
-<lastBuildDate>Mon, 09 Nov 2026 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 06:00:00 GMT</lastBuildDate>
+<item>
+<title>Concurs de Catan (2026-11-23)</title>
+<link>https://www.cbgshop.ro/events/catan/668d492647495320d49d9947</link>
+<guid isPermaLink="false">cbg:2026-11-23:concurs-de-catan</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 GMT</pubDate>
+<description><![CDATA[<p><img src="https://storage.googleapis.com/geo_bucket_1/uploads/events/668d492647495320d49d9947/ac3791cd-4d92-49b8-80d9-bdbb91d8c543-inchiriere-catan-jocul-de-baza.jpg" width="320"/></p><p>2026-11-23<br/>Fabrica (zona Parcul Carol)<br/>La Fabrica (aproape de intrarea principală din Parcul Carol). Eveniment tip Concurs, se adresează celor care știu regulile jocului Catan.</p>]]></description>
+</item>
 <item>
 <title>Seara de Catan (Amical) (2026-11-23)</title>
 <link>https://www.cbgshop.ro/events/general/676aad4402ab0c11760999b0</link>
